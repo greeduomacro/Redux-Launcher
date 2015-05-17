@@ -1,0 +1,17 @@
+c:\users\admin\documents\ReduxLauncher\ReduxLauncher\bin\Debug\ReduxLauncher.exe.config
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\bin\Debug\ReduxLauncher.exe
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\bin\Debug\ReduxLauncher.pdb
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.Interface.resources
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.Properties.Resources.resources
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.exe
+C:\Users\Admin\documents\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.pdb
+C:\Users\Admin\Documents\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\bin\Debug\ReduxLauncher.exe.config
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.exe
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.pdb
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\bin\Debug\ReduxLauncher.exe
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\bin\Debug\ReduxLauncher.pdb
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.Interface.resources
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.Properties.Resources.resources
+C:\Users\Admin\Documents\uoredux\ReduxLauncher\ReduxLauncher\obj\Debug\ReduxLauncher.csproj.GenerateResource.Cache
